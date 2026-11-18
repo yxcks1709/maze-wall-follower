@@ -1,8 +1,8 @@
+
+
 # Maze Wall-Follower Robot 🤖
 
 An autonomous robot that navigates a maze using the **left-hand rule**, built with a ROBOTIS OpenCM 9.04 board, three IR sensors and two Dynamixel motors.
-
-> 🎥 **Demo video:** _add a link or GIF here_
 
 ---
 
